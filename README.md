@@ -18,4 +18,4 @@ GitHub pages for 'Tokyo Sseikou Dousoukai'.
 
 * [青森高校ウェブサイト](http://www.aomori-h.asn.ed.jp)
 * [母校同窓会ウェブサイト](https://aomori-h.jp/)
-* [母校同窓会YouTubeチャネル](https://www.youtube.com/@tokyo-seikou)
+* [母校同窓会YouTubeチャネル](https://www.youtube.com/UCMETGyd4-BkzrPrA7vmjz1g)
