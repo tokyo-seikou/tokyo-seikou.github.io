@@ -3,7 +3,7 @@ GitHub pages for 'Tokyo Sseikou Dousoukai'.
 
 ## 関連リンク
 
-* [東京青高同窓会の運営サポートサイトのURL](https://tokyo-seikou.gitlab.io/support)
+* [東京青高同窓会の運営サポートサイトのURL](https://tokyo-seikou.github.io/)
 
 * [東京青高同窓会ウェブサイト](https://www.tokyo-seikou.jp/)
 * [Twitter](https://twitter.com/tokyo_seikou)
